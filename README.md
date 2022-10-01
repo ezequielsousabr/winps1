@@ -9,4 +9,7 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted
 ```
 
 <h4>2. Executando o script</h4>
-` .\verificar_conexoes.ps1 `
+
+```
+.\verificar_conexoes.ps1
+```
